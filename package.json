@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "postcss": "^7.0.29",
+    "postcss": "^8.2.10",
     "tailwindcss": "^1.4.5"
   }
 }
